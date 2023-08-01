@@ -4,3 +4,6 @@
     Add a Provider - ChakraProvider
     Wrap App component inside ChakraProvider
     Adding a Button
+3.  Creating a Responsive Layout
+    Setting templateAreas to define the layout of the grid
+    Setting properties to object
