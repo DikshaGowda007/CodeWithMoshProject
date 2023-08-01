@@ -16,3 +16,5 @@
         calling extendTheme() and pass config as an object
         storing the theme in config
     In the App component using the ColorModeScript()
+6. Building the Color Mode Switch
+    Using custom hook useColorMode hook defined in Chakra
