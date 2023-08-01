@@ -3,3 +3,4 @@
     Installing the required dependencies.
     Add a Provider - ChakraProvider
     Wrap App component inside ChakraProvider
+    Adding a Button
