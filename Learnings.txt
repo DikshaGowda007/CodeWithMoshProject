@@ -7,3 +7,6 @@
 3.  Creating a Responsive Layout
     Setting templateAreas to define the layout of the grid
     Setting properties to object
+4. Building the Navigation Bar
+    Using <HStack /> - Horizontal Stack
+    Using img in src as object
