@@ -10,3 +10,9 @@
 4. Building the Navigation Bar
     Using <HStack /> - Horizontal Stack
     Using img in src as object
+5. Implementing the Dark Mode
+    import `extendTheme` function
+    setting the configs
+        calling extendTheme() and pass config as an object
+        storing the theme in config
+    In the App component using the ColorModeScript()
