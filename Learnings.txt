@@ -45,4 +45,6 @@
     Adding loading skeletons
     Declaring a loaing state variable
 14. Refactor - Removing Duplicated Styles
-    Creating a seperate card for container adding style to it to remove duplicate styles
+    Creating a separate card for container adding style to it to remove duplicate styles
+15. Fetching the Genres
+    Creating a custom hook for fetching genres
