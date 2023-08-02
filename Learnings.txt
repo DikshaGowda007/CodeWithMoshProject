@@ -34,3 +34,6 @@
     Using the cancel method and using abortController
 9. Building Game Cards
     Exporting interfaces from custom hook
+10. Displaying Playing Platform Icons
+    Add Parent Platforms property to our Game interfaces
+    Creating a seperate component for displaying icons
