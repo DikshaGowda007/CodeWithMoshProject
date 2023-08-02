@@ -18,3 +18,12 @@
     In the App component using the ColorModeScript()
 6. Building the Color Mode Switch
     Using custom hook useColorMode hook defined in Chakra
+7. Fetching the Games
+    Installing axios for sending http requests.
+    Create an axios instance with a custom configuration
+    Set the base url in config
+    Export axios module
+    A state variable for storing our game objects and initialize the update variable with an empty array
+    A state variable for error messages and initialize the update variable with an empty string
+    useEffect to send a fetch request to the backend
+    Create an interface that represents the response object
