@@ -36,6 +36,8 @@
     Exporting interfaces from custom hook
 10. Displaying Playing Platform Icons
     Add Parent Platforms property to our Game interfaces
-    Creating a seperate component for displaying icons
+    Creating a separate component for displaying icons
 11. Displaying Critic Score
-    Creating an interface to define the shpae of props
+    Creating an interface to define the shape of props
+12. Getting Optimized Images
+    Creating a function in the services folder which returns a updated url for cropping the image
