@@ -27,3 +27,8 @@
     A state variable for error messages and initialize the update variable with an empty string
     useEffect to send a fetch request to the backend
     Create an interface that represents the response object
+8. Creating a Custom Hook for Fetching Games
+    Moving the useState hooks and interfaces from component to customHook component
+    In the customHook component return games state variable and error state variable
+    Import the customHook component and destructure the state variables
+    Using the cancel method and using abortController
