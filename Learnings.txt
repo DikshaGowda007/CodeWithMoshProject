@@ -41,3 +41,6 @@
     Creating an interface to define the shape of props
 12. Getting Optimized Images
     Creating a function in the services folder which returns a updated url for cropping the image
+13. Loading Skeletons
+    Adding loading skeletons
+    Declaring a loaing state variable
