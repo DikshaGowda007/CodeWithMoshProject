@@ -32,3 +32,5 @@
     In the customHook component return games state variable and error state variable
     Import the customHook component and destructure the state variables
     Using the cancel method and using abortController
+9. Building Game Cards
+    Exporting interfaces from custom hook
