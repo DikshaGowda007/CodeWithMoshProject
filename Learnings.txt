@@ -37,3 +37,5 @@
 10. Displaying Playing Platform Icons
     Add Parent Platforms property to our Game interfaces
     Creating a seperate component for displaying icons
+11. Displaying Critic Score
+    Creating an interface to define the shpae of props
