@@ -68,4 +68,5 @@
 25. Sorting Games
     Implementing Sorting Games Functionality
 26. Handling Games Without an Image
-    
+27. Fixing the Issue with Chakra Menus
+    Debugging the Chakra warning on Console
