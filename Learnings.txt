@@ -52,4 +52,5 @@
     Using a generic type parameter
     setting a parameter in the component function of type string
 17. Displaying the Genres
-    
+18. Showing a Spinner
+    Showing a loader for genre list
