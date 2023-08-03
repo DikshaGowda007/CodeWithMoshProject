@@ -70,3 +70,4 @@
 26. Handling Games Without an Image
 27. Fixing the Issue with Chakra Menus
     Debugging the Chakra warning on Console
+28. Building Search Input
