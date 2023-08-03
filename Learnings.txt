@@ -61,3 +61,5 @@
     (In the Parent Component (App component) of the Child Component (GenreList and Gamegrid ) and declare a state variable for storing the selected genre)
 20. Highlighting the Selected Genre
 21. Building Platform Selector
+22. Filtering Games by Platform
+    
