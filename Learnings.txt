@@ -54,3 +54,8 @@
 17. Displaying the Genres
 18. Showing a Spinner
     Showing a loader for genre list
+19. Filtering Games by Genre
+    Replacing the Text component with a clickable button in Genre List with variant link 
+    Set onclick to a function
+    Sharing a State between two Components by lifting it up to the closest Parent
+    (In the Parent Component (App component) of the Child Component (GenreList and Gamegrid ) and declare a state variable for storing the selected genre)
