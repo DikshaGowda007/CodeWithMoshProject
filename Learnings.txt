@@ -65,3 +65,5 @@
 23. Refactoring: Extracting a Query Object
 24. Building Sort Selector
     Building Sort Selector Component UI
+25. Sorting Games
+    Implementing Sorting Games Functionality
