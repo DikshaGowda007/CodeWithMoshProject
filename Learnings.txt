@@ -62,4 +62,4 @@
 20. Highlighting the Selected Genre
 21. Building Platform Selector
 22. Filtering Games by Platform
-    
+23. Refactoring: Extracting a Query Object
