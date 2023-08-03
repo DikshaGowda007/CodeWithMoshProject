@@ -71,3 +71,5 @@
 27. Fixing the Issue with Chakra Menus
     Debugging the Chakra warning on Console
 28. Building Search Input
+29. Searching Games
+    
