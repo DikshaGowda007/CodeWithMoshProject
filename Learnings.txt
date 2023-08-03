@@ -43,8 +43,11 @@
     Creating a function in the services folder which returns a updated url for cropping the image
 13. Loading Skeletons
     Adding loading skeletons
-    Declaring a loaing state variable
+    Declaring a loading state variable
 14. Refactor - Removing Duplicated Styles
     Creating a separate card for container adding style to it to remove duplicate styles
 15. Fetching the Genres
     Creating a custom hook for fetching genres
+16. Creating a Generic Data Fetching Hook
+    Using a generic type parameter
+    setting a parameter in the component function of type string
