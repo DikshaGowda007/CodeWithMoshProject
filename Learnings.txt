@@ -59,3 +59,5 @@
     Set onclick to a function
     Sharing a State between two Components by lifting it up to the closest Parent
     (In the Parent Component (App component) of the Child Component (GenreList and Gamegrid ) and declare a state variable for storing the selected genre)
+20. Highlighting the Selected Genre
+    
