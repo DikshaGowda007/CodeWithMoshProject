@@ -69,7 +69,7 @@
     Implementing Sorting Games Functionality
 26. Handling Games Without an Image
 27. Fixing the Issue with Chakra Menus
-    Debugging the Chakra warning on Console
+    Debugging the Chakra warning rendering on Console
 28. Building Search Input
 29. Searching Games
-    
+30. Adding a Dynamic Heading
