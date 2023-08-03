@@ -67,3 +67,5 @@
     Building Sort Selector Component UI
 25. Sorting Games
     Implementing Sorting Games Functionality
+26. Handling Games Without an Image
+    
