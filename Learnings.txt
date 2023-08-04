@@ -73,3 +73,4 @@
 28. Building Search Input
 29. Searching Games
 30. Adding a Dynamic Heading
+31. Cleaning Up the Genres
