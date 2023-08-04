@@ -9,8 +9,8 @@ import { GameQuery } from "../App";
 
 interface Props {
   gameQuery: GameQuery;
-  selectedGenre: Genre | null;
-  selectedPlatform: Platform | null;
+  selectedGenre?: Genre | null;
+  selectedPlatform?: Platform | null;
 }
 
 const GameGrid = ({ gameQuery }: Props) => {
