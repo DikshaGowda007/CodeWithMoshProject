@@ -76,3 +76,4 @@
 31. Cleaning Up the Genres
 32. Cleaning Up the Game Cards
 33. Adding Emojis
+34. Shipping Static Data 
