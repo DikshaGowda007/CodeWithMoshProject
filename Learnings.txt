@@ -78,3 +78,4 @@
 33. Adding Emojis
 34. Shipping Static Data 
 35. Customizing the Chakra Theme
+36. Refactoring Game Grid
