@@ -75,3 +75,4 @@
 30. Adding a Dynamic Heading
 31. Cleaning Up the Genres
 32. Cleaning Up the Game Cards
+33. Adding Emojis
