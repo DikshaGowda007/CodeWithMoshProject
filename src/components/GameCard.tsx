@@ -11,6 +11,7 @@ const GameCard = ({ game }: Props) => {
   return (
     <>
     {console.log(`${JSON.stringify(game)}`)}
+    {JSON.stringify(game.name)}
     <Card>
         {/* <Image src={game.background_image} /> */}
         <Image src={getCroppedImageUrl(game.background_image)} />
